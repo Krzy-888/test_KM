@@ -1,1 +1,1 @@
-print("niebieski superlike button")
+print("#fc96ff superlike button")
